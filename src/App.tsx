@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const tempVar = 5;
+  console.log('woohoo');
   return (
     <div className="App">
       <header className="App-header">
