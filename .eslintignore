@@ -5,12 +5,14 @@ build
 node_modules
 /.pnp
 .pnp.js
+webpack.config.js
 
 # testing
 coverage
 
 # production
 build
+dist
 
 # misc
 .DS_Store
